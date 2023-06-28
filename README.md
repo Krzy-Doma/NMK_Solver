@@ -12,7 +12,7 @@ This command firstly returns number of possible moves for a player and secondly 
 Example:
 input:
 
-![img1](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/all_possible_move_1.png)(`<br>`)  
+![img1](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/all_possible_move_1.png) <br>
 output:
 
 ![img2](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/all_possible_move_2.png)
