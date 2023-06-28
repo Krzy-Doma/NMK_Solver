@@ -4,6 +4,8 @@ An m,n,k-game is an abstract board game in which two players take turns in placi
 
 NMK_Solver is program that accepts 3 commands followed by imput of values n, m, k, number of player that is supposed to make a move (either 1 or 2) and board made from numbers 0 (empty cell), 1 (firts player pawn), 2 (second player pown).
 
+The main purpuse of the programm is using implemented minimax algorithm to evaluate the state of game and predict its outcome assuming best possible moves are made by each player. Additionally algorithm is optimalized using techniques like for example Alpha-Beta pruning.
+
 Description of possible commands:
 
 # 1. GEN_ALL_POS_MOV
@@ -37,3 +39,9 @@ output:
 ![img6](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/cut_game_over_4.png) <br></p>
 
 # 3. SOLVE_GAME_STATE
+<p>This is the main command of the program. It is using minimax algorithm to evaluate which player is going to win or if there is a tie. It returns string with information that either one of the players (should) win the game or if there is a tie.
+
+Example when there is a winner: <br>
+input:  
+
+</p>
