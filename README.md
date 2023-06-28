@@ -42,15 +42,23 @@ output:
 <p>This is the main command of the program. It is using minimax algorithm to evaluate which player is going to win or if there is a tie. It returns string with information that either one of the players (should) win the game or if there is a tie.
 
 Example when there is a winner: <br>
+
 input:  
+
 ![solve_game_state_1](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/solve_game_state_1.png) <br>
+
 output:
+
 ![solve_game_state_2](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/solve_game_state_2.png) <br>
 
 Example when there is a tie: <br>
+
 input:  
+
 ![solve_game_state_3](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/solve_game_state_3.png) <br>
+
 output:
+
 ![solve_game_state_4](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/solve_game_state_4.png) <br>
 
 
