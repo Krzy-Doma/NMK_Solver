@@ -7,7 +7,7 @@ NMK_Solver is program that accepts 3 commands followed by imput of values n, m, 
 Description of possible commands:
 
 # 1. GEN_ALL_POS_MOV
-This command firstly returns number of possible moves for a player and secondly generates all posible boards after each move.
+<p>This command firstly returns number of possible moves for a player and secondly generates all posible boards after each move.
 
 Example:
 input:
@@ -15,7 +15,7 @@ input:
 ![img1](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/all_possible_move_1.png) <br>
 output:
 
-![img2](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/all_possible_move_2.png)
+![img2](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/all_possible_move_2.png) <br> </p>
 
 # 2. GEN_ALL_POS_MOV_CUT_IF_GAME_OVER
 
