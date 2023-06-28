@@ -11,8 +11,10 @@ This command firstly returns number of possible moves for a player and secondly 
 
 Example:
 input:
+
 ![img](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/all_possible_move_1.png)
 output:
+
 ![img](https://github.com/Krzy-Doma/NMK_Solver/blob/main/screens/all_possible_move_2.png)
 
 # 2. GEN_ALL_POS_MOV_CUT_IF_GAME_OVER
